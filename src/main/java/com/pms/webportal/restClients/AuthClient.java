@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestHeader;
 import com.pms.webportal.model.AuthResponse;
 import com.pms.webportal.model.UserData;
 
-@FeignClient(name = "authorization-service", url = "http://localhost:9095")
+@FeignClient(name = "authorization-service", url = "http://23pmsauthorizationnew-env.eba-vhmeygx4.ap-south-1.elasticbeanstalk.com")
 public interface AuthClient {
 
 	@PostMapping("/login")
