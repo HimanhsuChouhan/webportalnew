@@ -1,0 +1,95 @@
+#navheading {
+	color: black;
+	font-size: 2rem;
+	font-weight: bold;
+}
+
+.icon-size {
+	font-size: 2rem;
+	vertical-align: middle;
+	color:black;
+}
+
+.logout {
+	font-size: 3rem;
+	vertical-align: middle;
+}
+
+a:hover .logout {
+	color: red;
+}
+
+#navname {
+	color: #fff3d4;
+}
+
+#hamburger {
+	color: #DFA362;
+}
+
+body {
+	background-image:
+		url("https://lgminsurance.co.uk/wp-content/uploads/2019/03/pension.jpg");
+	height: 50%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 50%;
+}
+#formheading {
+	color: #fff3d4;
+}
+
+.card {
+	background-color: rgba(0, 0, 0, 0.6);
+	
+}
+
+.gj-picker {
+	color: #976536;
+}
+
+.calendar {
+	color: #FFFFFF;
+}
+
+.form-control {
+	background-color: rgba(255, 255, 255, 0.5);
+	border: none;
+	font-size: 1.25rem;
+}
+
+.formlabel {
+	font-size: 1.25rem;
+}
+
+.mandatory {
+	color: #ffc107;
+}
+
+footer {
+	background-color:#faf0ca;
+	height: 2rem;
+	margin-top: 1%;
+	position: relative;
+	bottom: 0;
+	color:black;
+}
+
+.tablefield {
+	color: #DFA362;
+}
+
+.tryagain:hover {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.tryagain {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+button.input-group-append {
+	border: none;
+}
